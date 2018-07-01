@@ -8,23 +8,30 @@
   margin-bottom: 0px;
   background-repeat: repeat;
   background-image: url("https://preview.ibb.co/g8g4py/backgroundimage.jpg");
+  width: 100%;
 
 }
 
 .jumbotron {
   background-color: white;
+  position: center;
+  width: 100%;
 }
 
 .score {
 margin-bottom: 50px;
 font-size: 20px;
+text-align: center;
 }
 
 .headerimage {
 margin: 0px;
+float: center;
+width: 100%;
 }
 
 .character-box {
+  width: 100%;
 
 }
 
