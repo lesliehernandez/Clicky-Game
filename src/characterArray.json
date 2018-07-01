@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"name": "arnold",
+		"src": "./img/arnold.png",
+		"isClicked": false
+	},
+	{
+		"id": 2,
+		"name": "helga",
+		"src": "./img/helga.png",
+		"isClicked": false
+	},
+	{
+		"id": 3,
+		"name": "phoebe",
+		"src": "./img/phoebe.png",
+		"isClicked": false
+	},
+	{
+		"id": 4,
+		"name": "eugene",
+		"src": "./img/eugene.png",
+		"isClicked": false
+	},
+	{
+		"id": 5,
+		"name": "harold",
+		"src": "./img/harold.png",
+		"isClicked": false
+	},
+	{
+		"id": 6,
+		"name": "brainy",
+		"src": "./img/brainy.png",
+		"isClicked": false
+	},
+	{
+		"id": 7,
+		"name": "mrsimmons",
+		"src": "./img/mrsimmons.png",
+		"isClicked": false
+	},
+	{
+		"id": 8,
+		"name": "principalwartz",
+		"src": "./img/principalwartz.png",
+		"isClicked": false
+	},
+	{
+		"id": 9,
+		"name": "patty",
+		"src": "./img/patty.png",
+		"isClicked": false
+	},
+	{
+		"id": 10,
+		"name": "rhonda",
+		"src": "./img/rhonda.png",
+		"isClicked": false
+	},
+	{
+		"id": 11,
+		"name": "gerald",
+		"src": "./img/gerald.png",
+		"isClicked": false
+	},
+	{
+		"id": 12,
+		"name": "sid",
+		"src": "./img/sid.png",
+		"isClicked": false
+	}
+]

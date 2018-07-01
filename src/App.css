@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  color: black;
+  padding: 40px;
+  margin-bottom: 0px;
+  background-repeat: repeat;
+  background-image: url("https://preview.ibb.co/g8g4py/backgroundimage.jpg");
+
+}
+
+.jumbotron {
+  background-color: white;
+}
+
+.score {
+margin-bottom: 50px;
+font-size: 20px;
+}
+
+.headerimage {
+margin: 0px;
+}
+
+.character-box {
+
+}
+
+.character {
+  border-radius: 50%;
+  border-color: lightblue;
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+  border-width: 3px;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+}
+
+.character:hover {
+  border-color: palevioletred;
+  border-style: solid;
+  border-width: 3px;
+}
